@@ -8,7 +8,7 @@ Statistical analysis of public data on animal agriculture.
 
 ## Methodology
 - Access to public databases via webscraping and APIs (Python)
-- ETL and data cleaning
+- ETL mini pipeline
 - Creation of a database (SQL)
 - Impactful visualizations and insights (Tableau)
 
